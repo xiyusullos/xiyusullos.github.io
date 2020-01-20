@@ -135,13 +135,6 @@
   </url>
   
   <url>
-    <loc>http://blog.xy-jit.cc/2017/03/Design-Patterns-Implemented-in-PHP/</loc>
-    
-    <lastmod>2019-12-21T02:07:02.813Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.xy-jit.cc/2017/03/Abstract-Factory/</loc>
     
     <lastmod>2019-12-21T02:07:02.813Z</lastmod>
@@ -150,6 +143,13 @@
   
   <url>
     <loc>http://blog.xy-jit.cc/2017/03/Builder/</loc>
+    
+    <lastmod>2019-12-21T02:07:02.813Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.xy-jit.cc/2017/03/Design-Patterns-Implemented-in-PHP/</loc>
     
     <lastmod>2019-12-21T02:07:02.813Z</lastmod>
     
